@@ -17,6 +17,6 @@
 <div align="center">
   <a href="https://github.com/Caique-S">
   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=Caique-S&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-S&custom_title=&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+ <!-- <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-S&custom_title=&layout=compact&langs_count=7&theme=dark"/> -->
