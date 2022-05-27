@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/Caique-Devlopment">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Caique-Devlopment&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Devlopment&custom_title=&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Caique-Devlopment&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Devlopment&custom_title=&layout=compact&langs_count=7&theme=dark"/>
     </div>
   <img src="https://github.com/Caique-Devlopment/Caique-Devlopment/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
