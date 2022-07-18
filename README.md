@@ -1,6 +1,6 @@
 # Olá! Eu sou Caique 👋
 
-## 💻📚 Dev.Full-Stack em formação ⏳ graças a Fullture 😍.
+## 💻📚 Dev.Full-Stack em formação ⏳ graças a Fullture School 😍.
 
 - 🔭 Estou trabalhando atualmente como - { Auxiliar de T.I }
 - 🌱 Estou aprendendo - { HTML5, CSS3, Java, JavaScript }  
