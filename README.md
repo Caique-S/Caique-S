@@ -4,7 +4,6 @@
 
 ![Caique-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-S&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-S&layout=donut-vertical)](https://github.com/Caique-S/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-S&layout=compact)
 
 ### Tecnologias que utilizo no meu Dia:
