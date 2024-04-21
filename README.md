@@ -1,6 +1,6 @@
 # Olá! Eu sou o Caique Santos ✌🏾
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s0us4.c/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-santhus-46668a6b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-santos-sousa-silva-46668a6b/)
 
 ![Caique-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-S&show_icons=true&theme=dark)
 
